@@ -1,7 +1,7 @@
 //all numbers 100 - 100
-/* multiple of 3 - loopy; multpiple of 4 - lighthouse
-multiple of 3 and 4 - loopy lighthouse
-*/
+//multiple of 3 - loopy; multpiple of 4 - lighthouse
+//multiple of 3 and 4 - loopy lighthouse
+
 
 function loopyLighthouse() {
   for (let i = 100; i < 201; i++) {
@@ -18,3 +18,6 @@ function loopyLighthouse() {
 }
 
 loopyLighthouse();
+
+
+
